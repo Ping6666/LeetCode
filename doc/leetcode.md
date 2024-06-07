@@ -5,12 +5,17 @@
 ```
 #include <iostream>
 
+// magic 1
+static auto _sync = std::ios_base::sync_with_stdio(0);
+static auto _cin = std::cin.tie(0);
+static auto _cout = std::cout.tie(0);
+
 class Solution
 {
 public:
     void solve()
     {
-        // magic
+        // magic 2
         std::ios_base::sync_with_stdio(0);
         std::cin.tie(0);
         std::cout.tie(0);
