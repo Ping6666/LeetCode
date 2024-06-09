@@ -38,3 +38,9 @@ This measurement can be used in both time (Runtime) and space (Memory).
 
 Runtime will depend on the LeetCode servers' current load not just on the time complexity of the code. \
 Therefore, it may get different results on runtime complexity or memory complexity while running same code.
+
+## write-up
+
+- [0208. Implement Trie (Prefix Tree)](../src/0208.%20Implement%20Trie%20(Prefix%20Tree)/readme.md)
+- [0560. Subarray Sum Equals K](../src/0560.%20Subarray%20Sum%20Equals%20K/readme.md)
+- [2121. Intervals Between Identical Elements](../src/2121.%20Intervals%20Between%20Identical%20Elements/readme.md)
