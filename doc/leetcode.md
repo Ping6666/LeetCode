@@ -44,3 +44,4 @@ Therefore, it may get different results on runtime complexity or memory complexi
 - [0208. Implement Trie (Prefix Tree)](../src/0208.%20Implement%20Trie%20(Prefix%20Tree)/readme.md)
 - [0560. Subarray Sum Equals K](../src/0560.%20Subarray%20Sum%20Equals%20K/readme.md)
 - [2121. Intervals Between Identical Elements](../src/2121.%20Intervals%20Between%20Identical%20Elements/readme.md)
+- [2559. Count Vowel Strings in Ranges](../src/2559.%20Count%20Vowel%20Strings%20in%20Ranges/readme.md)
