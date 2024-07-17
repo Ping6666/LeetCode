@@ -23,6 +23,22 @@ Introsort
 
 O(n ⋅ log(n))
 
+#### Usage: sort and keep the indice
+
+```c
+vector<int> indices(n);
+for (int i = 0; i < n; i++)
+{
+    indices[i] = i;
+}
+
+sort(indices.begin(), indices.end(), [&](int lhs, int rhs) { return vec[lhs] < vec[rhs]; });
+
+// ex.
+// vec = {10, 3, 5, 7, 2}
+// indices = {4, 1, 2, 3, 0}
+```
+
 ### `std::nth_element`
 
 > ref. [std::nth_element - cppreference.com](https://en.cppreference.com/w/cpp/algorithm/nth_element)
