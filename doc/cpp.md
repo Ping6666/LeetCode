@@ -1,5 +1,18 @@
 # C++
 
+## MISC
+
+### array
+
+```c
+// int array with length N default value
+int arr[N] = {};
+
+// sort on the array
+sort(&indices[0], &indices[N], [&](int lhs, int rhs)
+        { return arr[lhs] > arr[rhs]; });
+```
+
 ## header `<algorithm>`
 
 ### `std::reverse`
