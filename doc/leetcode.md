@@ -53,6 +53,23 @@ Therefore, it may get different results on runtime complexity or memory complexi
 
 ## good questions
 
+- [1368. Minimum Cost to Make at Least One Valid Path in a Grid](../src/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/)
 - [1593. Split a String Into the Max Number of Unique Substrings](../src/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/)
+- [1671. Minimum Number of Removals to Make Mountain Array](../src/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/)
+- [1910. Remove All Occurrences of a Substring](../src/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring/)
 - [2045. Second Minimum Time to Reach Destination](../src/2045.%20Second%20Minimum%20Time%20to%20Reach%20Destination/)
+- [2070. Most Beautiful Item for Each Query](../src/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query/)
+- [2127. Maximum Employees to Be Invited to a Meeting](../src/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting/)
 - [2458. Height of Binary Tree After Subtree Removal Queries](../src/2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries/)
+- [2466. Count Ways To Build Good Strings](../src/2466.%20Count%20Ways%20To%20Build%20Good%20Strings/)
+- [2563. Count the Number of Fair Pairs](../src/2563.%20Count%20the%20Number%20of%20Fair%20Pairs/)
+- [2762. Continuous Subarrays](../src/2762.%20Continuous%20Subarrays/)
+
+## interesting questions
+
+- [1524. Number of Sub-arrays With Odd Sum](../src/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/)
+- [2364. Count Number of Bad Pairs](../src/2364.%20Count%20Number%20of%20Bad%20Pairs/)
+
+## easy Hard
+
+- [0827. Making A Large Island](../src/0827.%20Making%20A%20Large%20Island/)
